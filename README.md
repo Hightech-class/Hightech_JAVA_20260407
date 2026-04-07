@@ -14,4 +14,6 @@ JAVA class contents
 * 배열의 크기, length 필드
  ** 배열은 자바에서 객체로 관리
   *** 배열 객체 내에 length 필드는 배열의 크기를 나타냄
-  
+---
+* 배열과 for-each 문
+ ** for-each문 : 배열이나 나열(enumeration)의 각 원소를 순차적으로 접근하는데 유용한 for문
